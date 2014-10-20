@@ -9,10 +9,10 @@ API
 
 * `thing++` - add a point to `thing`
 * `++` - add a point to the most previously voted-on thing
-* `thing++ for stuff` - keep track of why you gave thing points
+* `thing++ for stuff` - add a point to `thing` and note why
 * `thing--` - remove a point from `thing`
 * `--` - remove a point from the most previously voted-on thing
-* `thing-- for stuff` - keep track of why you gave thing points
+* `thing-- for stuff` - remove a point from `thing` and note why
 * `hubot top 10` - show the top 10, with a graph of points
 * `hubot score thing` - check the score for and reasons for `thing`
 
